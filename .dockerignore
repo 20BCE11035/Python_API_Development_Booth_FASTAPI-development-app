@@ -1,0 +1,12 @@
+__pycache__
+venv/
+python-api/
+.env
+Dockerfile
+.dockerignore
+.pytest_cache
+Procfile
+nginx
+gunicorn.service
+./resources/
+resources/
